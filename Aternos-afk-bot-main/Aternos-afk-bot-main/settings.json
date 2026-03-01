@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "waguriismp.aternos.me", 
-    "port": 58031,   
+    "ip": "Jawa_universe.aternos.me", 
+    "port": 64983,   
     "version": "1.12.1"   
   },
   
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 60,
 
@@ -41,8 +41,8 @@
       ]
     },
 
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 1000
   }
 }
